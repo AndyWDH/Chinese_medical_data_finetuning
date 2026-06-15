@@ -54,7 +54,7 @@
 pip install unsloth torch transformers datasets trl accelerate
 ```
 
-### 数据准备
+### 数据准备(需要数据的联系我)
 
 将医疗对话数据按科室分类放置在 `Data_数据/` 目录下，每个CSV文件需包含以下列之一：
 - 问题列：`question`、`问题`、`ask`
